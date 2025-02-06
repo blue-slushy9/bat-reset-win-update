@@ -1,0 +1,1 @@
+I didn't write this script, I got it from ChatGPT. However, it has been very useful for restarting the Windows Update process when it gets stuck on certain packages. I believe it has to do with the WU cache becoming corrupted, one of the commands in the script clears the cache.
